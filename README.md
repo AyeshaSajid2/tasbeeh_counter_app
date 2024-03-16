@@ -1,6 +1,7 @@
 # counter_app
 
 A new Flutter project.
+This is a sleek tasbeeh counter app, which first take the user tasbeeh and store it by using shared prefernces then takes the user to the counter screen where user counts the azkaar.
 
 ## Getting Started
 
